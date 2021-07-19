@@ -1,0 +1,9 @@
+Coffee 2.99 150cal
+Donuts 4.99 1500cal
+
+Mocha     3.15 200cal
+Espresso  3.25 300cal
+
+Ice Coffee 2.88 300cal
+
+Lunch menu:

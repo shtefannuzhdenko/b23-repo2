@@ -15,3 +15,7 @@ Burger 10000 cal 5.99
 Veggie Bowl   10 cal 5.89
 Burritos  500 cal  3.99
 Doner  400 cal 9.99
+
+pizza 3000 cal 15.99
+soup 80 cal 6.99 
+dumplings 83 cal 4.99
